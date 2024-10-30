@@ -1,0 +1,17 @@
+.custom-alert {
+    .alert-wrapper {
+      background: #f4f4f4;
+    }
+  
+    .alert-button {
+      color: var(--ion-color-primary);
+    }
+  }
+  
+  ion-content {
+    --background: #ffffff;
+  }
+  
+  ion-button {
+    margin-top: 20px;
+  }
